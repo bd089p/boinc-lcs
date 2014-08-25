@@ -266,7 +266,7 @@
 
 ?>
 <div id="footer">
-  <a class="bright" href="http://www.onenext.de/">BOINC LCS <?php echo $version; ?> &#169; 2007-2011 OneNext Solutions</a> | <a class="bright" href="javascript:alert('BOINC LCS <?php echo $version; ?>\n\nReleased under the GNU/GPL License v3.0\nWritten by Willy Babernits 2007/2011 for OneNext Solutions\nPowered by PHP and BOINC\n\nSend bugs, problems, wishes to:\nwbabernits[at]onenext[dot]de\nSubject BOINC LCS')">Credits</a> | <a class="bright" href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a class="bright" href="http://www.famfamfam.com/">Icons by FamFamFam</a>
+  <a class="bright" href="http://www.onenext.de/">BOINC LCS <?php echo $version; ?> &#169; 2007-2014 OneNext Solutions</a> | <a class="bright" href="javascript:alert('BOINC LCS <?php echo $version; ?>\n\nReleased under the GNU/GPL License v3.0\nWritten by Willy Babernits 2007/2014 for OneNext Solutions\nPowered by PHP and BOINC\n\nSend bugs, problems, wishes to:\nwbabernits[at]onenext[dot]de\nSubject BOINC LCS')">Credits</a> | <a class="bright" href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a class="bright" href="http://www.famfamfam.com/">Icons by FamFamFam</a>
 </div>
 </body>
 </html>
