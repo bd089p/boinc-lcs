@@ -228,7 +228,7 @@
         </div>
         <div class="tr">
           <div class="td">Team</div>
-          <div class="tdr"><?php echo ereg(".",$project->team_name) ? $project->team_name : 'No team found' ; ?></div>
+          <div class="tdr"><?php echo preg_match("/./",$project->team_name) ? $project->team_name : 'No team found' ; ?></div>
         </div>
         <div class="tr">
           <div class="td">Host ID</div>
